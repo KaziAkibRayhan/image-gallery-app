@@ -1,9 +1,10 @@
 import React from 'react';
+import ImageGalleryContainer from './Components/ImageGalleryContainer/ImageGalleryContainer';
 
 const App = () => {
   return (
     <div>
-      Hello World
+      <ImageGalleryContainer />
     </div>
   );
 };
